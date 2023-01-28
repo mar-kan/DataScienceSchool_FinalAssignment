@@ -25,3 +25,5 @@ Code and more details in the notebook: finalAssignment.ipynb
 Present the Data using Tableau:
 
 ![image](dshboard.png)
+
+(https://public.tableau.com/app/profile/marianna8236/viz/final_assignment_16749257543570/Dashboard1?publish=yes)
