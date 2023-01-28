@@ -22,17 +22,6 @@ Code and more details in the notebook: finalAssignment.ipynb
 
 - ###### Step 5.
 
-Use Matplotlib or Tableau with the newly made CSV file and present your Data.
+Present the Data using Tableau:
 
-## The visualization should look similar to something like this, but you are free to experiment. :
-
-
-### 1.  If you are using Matplotlib
-
-
-<img src="https://user-images.githubusercontent.com/84134316/183881562-1bbd2503-1ebd-47a1-a396-97af4acebc46.png" width="450">
-
-### 2. If you are using Tableau
-
-
-<img src="https://user-images.githubusercontent.com/84134316/183916100-85c98b3b-5de7-40dd-bbc1-cefdaacb0619.png" width="450">
+![image](dshboard.png)
